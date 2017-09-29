@@ -1,0 +1,31 @@
+body {
+    font-family: 'Germania One', 'Slabo 27px' 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1, h2 {
+    font-weight: 200;
+}
+
+
+h1 {
+    font-size: 5rem;
+    margin-top: 0;
+    padding: 200px;
+}
+
+header {
+    background-image: linear-gradient(to right, rgba(0,0,0,0.4), rgba(0,0,0,0)), url(../img/header.jpg);
+    background-size: cover;
+    color: #FFF;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
